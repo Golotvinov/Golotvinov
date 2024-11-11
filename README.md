@@ -9,7 +9,6 @@ I'm a senior UI/UX designer and graphic designer who also does some frontend dev
 * 🌍  I'm based in Prague
 * 🖥️  See my portfolio at [Golotvinov.eu](http://golotvinov.eu)
 * ✉️  You can contact me at [golotvinov@gmail.com](mailto:golotvinov@gmail.com)
-* 🧠  I'm learning Webflow
 * ⚡  I'm an open source enthusiast and watch collector.
 
 ### Skills
